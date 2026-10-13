@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, Universe! 👋
 
-<!--
-**autotelic25062/autotelic25062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 **What I build:** Review King (reviewking.info) — an independent review site covering AI tools, developer software and consumer tech.
+- 🎨 **What I care about:** honest testing, clear pricing breakdowns, and reviews that say what a tool *cannot* do.
+- 🚀 **Fun fact:** I learn every new framework by shipping a review of it first.
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My Scrimba Profile](https://scrimba.com?via=u458fc8e) • [Portfolio](https://reviewking.info)
+
+---
+
+*Affiliate disclosure: the Scrimba link above is a referral link. If you buy through it I may earn a commission, at no extra cost to you.*
